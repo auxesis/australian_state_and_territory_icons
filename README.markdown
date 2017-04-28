@@ -14,3 +14,5 @@ Icons of Australian states and territories, for use in Slack (`/status` messages
 | ![Tasmania](https://github.com/auxesis/australian_state_and_territory_icons/raw/master/tas.png) | Tasmania | `:tasmania:` | `:tas:` |
 | ![Victoria](https://github.com/auxesis/australian_state_and_territory_icons/raw/master/vic.png) | Victoria | `:victoria:` | `:vic:` |
 | ![Western Australia](https://github.com/auxesis/australian_state_and_territory_icons/raw/master/wa.png) | Western Australia | `:western_australia:` | `:wa:` |
+
+The source of all the icons is [`icons.svg`](https://github.com/auxesis/australian_state_and_territory_icons/blob/master/icons.svg).
